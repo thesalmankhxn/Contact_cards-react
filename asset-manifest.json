@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/Contact_cards-react/static/js/main.a3b3e835.chunk.js",
+    "main.js.map": "/Contact_cards-react/static/js/main.a3b3e835.chunk.js.map",
+    "runtime-main.js": "/Contact_cards-react/static/js/runtime-main.a2316b8f.js",
+    "runtime-main.js.map": "/Contact_cards-react/static/js/runtime-main.a2316b8f.js.map",
+    "static/js/2.8503bbe3.chunk.js": "/Contact_cards-react/static/js/2.8503bbe3.chunk.js",
+    "static/js/2.8503bbe3.chunk.js.map": "/Contact_cards-react/static/js/2.8503bbe3.chunk.js.map",
+    "index.html": "/Contact_cards-react/index.html",
+    "precache-manifest.640b8a06c6cc52d08f715e22af1785f6.js": "/Contact_cards-react/precache-manifest.640b8a06c6cc52d08f715e22af1785f6.js",
+    "service-worker.js": "/Contact_cards-react/service-worker.js",
+    "static/js/2.8503bbe3.chunk.js.LICENSE.txt": "/Contact_cards-react/static/js/2.8503bbe3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2316b8f.js",
+    "static/js/2.8503bbe3.chunk.js",
+    "static/js/main.a3b3e835.chunk.js"
+  ]
+}

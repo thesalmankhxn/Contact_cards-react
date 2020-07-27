@@ -6,6 +6,7 @@ function Cards(props) {
     return <div>
       <div className="card">
         <div className="top">
+          <p className="id" >{props.identity}</p>
           <h2 className="name">{props.name}</h2>
           <Avatar
             img={props.img}
